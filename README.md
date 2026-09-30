@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=180&section=header&text=Big%20Ben&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Onchain%20%26%20Mobile%20Experiences&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.png" alt="Big Ben" width="100%"/>
 
-<img src="https://github.com/Big-BenW3.png" width="120" height="120" style="border-radius: 50%;" />
+</div>
 
 # Hey, I'm Big Ben 👋
 
@@ -13,8 +13,6 @@ I’m a software developer who enjoys turning ideas into products people can act
 I like building **onchain and mobile solutions**, especially products that sit at the intersection of technology, great user experience, and real-world utility.
 
 I’m particularly interested in taking complex technology and making it feel **simple, fast, and intuitive** for the people using it.
-
-</div>
 
 ---
 
