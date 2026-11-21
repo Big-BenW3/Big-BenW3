@@ -67,7 +67,7 @@ DIM, FG, LINE, PINK = "#4f7f5d", "#b6f5c6", "#14261b", "#ff5a7a"
 LH, GAP, HEAD_H, HEAD_MB = 16.5, 12, 18.75, 12
 TOP, BOT = 40, 524                     # middle band
 L_KEY, L_VAL = 17, 85                  # left column x
-R_KEY, R_VAL = 674, 732                # right column x
+R_KEY, R_VAL = 654, 732                # right column x
 out = []
 add = out.append
 
