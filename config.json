@@ -1,0 +1,37 @@
+{
+  "accent": "#33ff66",
+  "github_user": "Big-BenW3",
+  "start_date": "2024-04-29",
+
+  "case_file": [
+    ["name", "Big Ben"],
+    ["alias", "bandit.sol"],
+    ["status", "at large"],
+    ["loc", "Nigeria"],
+    ["uptime", "{uptime}"],
+    ["hobby", "Coding · Gaming"]
+  ],
+
+  "contact": [
+    ["web", "Big Ben"],
+    ["x", "@banditdotsol"],
+    ["linkedin", "/in/bigbenw3"],
+    ["github", "Big-BenW3"],
+    ["email", "okafor99ben@gmail.com"]
+  ],
+
+  "skills": [
+    ["lang", "TypeScript · Rust|Python · Solidity"],
+    ["chain", "Solana · Anchor|Ethereum · Sui"],
+    ["app", "Flutter · React Native|Expo · Next.js · React"]
+  ],
+
+  "metrics": [
+    ["github", "{repos} repos · {commits} commits"],
+    ["shipped", "20+ products"],
+    ["ideas|stolen", "30+"]
+  ],
+
+  "repos": 51,
+  "commits": 661
+}

@@ -1,0 +1,37 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "5 0 * * *"        # every day, just after midnight UTC
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - "config.json"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Build card.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain card.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add card.svg
+            git commit -m "chore: refresh profile card"
+            git push
+          else
+            echo "card.svg unchanged"
+          fi
