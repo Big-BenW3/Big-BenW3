@@ -36,23 +36,23 @@ text{font-family:'JBM','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consol
 <text x="85" y="445.20" class="v">Big-BenW3</text>
 <text x="17" y="473.70" class="k">email</text>
 <text x="85" y="473.70" class="v">okafor99ben@gmail.com</text>
-<text x="674" y="75.90" class="h">[ skills ]</text>
-<text x="674" y="104.95" class="k">lang</text>
+<text x="654" y="75.90" class="h">[ skills ]</text>
+<text x="654" y="104.95" class="k">lang</text>
 <text x="732" y="104.95" class="v">TypeScript · Rust</text>
 <text x="732" y="121.45" class="v">Python · Solidity</text>
-<text x="674" y="149.95" class="k">chain</text>
+<text x="654" y="149.95" class="k">chain</text>
 <text x="732" y="149.95" class="v">Solana · Anchor</text>
 <text x="732" y="166.45" class="v">Ethereum · Sui</text>
-<text x="674" y="194.95" class="k">app</text>
+<text x="654" y="194.95" class="k">app</text>
 <text x="732" y="194.95" class="v">Flutter · React Native</text>
 <text x="732" y="211.45" class="v">Expo · Next.js · React</text>
-<text x="674" y="371.15" class="h">[ metrics ]</text>
-<text x="674" y="400.20" class="k">github</text>
+<text x="654" y="371.15" class="h">[ metrics ]</text>
+<text x="654" y="400.20" class="k">github</text>
 <text x="732" y="400.20" class="v">51 repos · 661 commits</text>
-<text x="674" y="428.70" class="k">shipped</text>
+<text x="654" y="428.70" class="k">shipped</text>
 <text x="732" y="428.70" class="v">20+ products</text>
-<text x="674" y="457.20" class="k">ideas</text>
-<text x="674" y="473.70" class="k">stolen</text>
+<text x="654" y="457.20" class="k">ideas</text>
+<text x="654" y="473.70" class="k">stolen</text>
 <text x="732" y="457.20" class="v">30+</text>
 <text class="art" x="257.00" y="60.20" textLength="345.60" lengthAdjust="spacing">'                                    .''.                                    .'.</text>
 <text class="art" x="395.24" y="67.40" textLength="211.68" lengthAdjust="spacing">..'`::,,^^'.                                   ''</text>
